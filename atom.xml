@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaowangsiyu.github.io/"/>
-  <updated>2017-09-02T01:46:35.396Z</updated>
+  <updated>2017-09-02T02:44:59.932Z</updated>
   <id>http://xiaowangsiyu.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>许岑老师课程</title>
+    <link href="http://xiaowangsiyu.github.io/2017/09/02/%E8%AE%B8%E5%B2%91%E8%80%81%E5%B8%88%E8%AF%BE%E7%A8%8B/"/>
+    <id>http://xiaowangsiyu.github.io/2017/09/02/许岑老师课程/</id>
+    <published>2017-09-02T02:44:59.000Z</published>
+    <updated>2017-09-02T02:44:59.932Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -34,14 +48,14 @@
     <link href="http://xiaowangsiyu.github.io/2017/09/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://xiaowangsiyu.github.io/2017/09/01/第一篇文章/</id>
     <published>2017-09-01T09:52:52.000Z</published>
-    <updated>2017-09-01T10:10:53.829Z</updated>
+    <updated>2017-09-02T02:55:22.953Z</updated>
     
-    <content type="html"><![CDATA[<p>摘要：<br><a id="more"></a><br>正文：这是我的第一篇自己空间的博客，只为测试</p>
+    <content type="html"><![CDATA[<p>摘要：这是开通博客之后的第一篇日志<br><a id="more"></a><br>正文：这是我的第一篇自己空间的博客，只为测试</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;摘要：&lt;br&gt;
+      &lt;p&gt;摘要：这是开通博客之后的第一篇日志&lt;br&gt;
     
     </summary>
     
